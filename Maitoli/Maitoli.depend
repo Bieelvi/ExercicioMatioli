@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1583883940 source:c:\users\aluno\desktop\estruturadedados\ed em c\maitoli\funcoes.c
+
+1583883915 source:c:\users\aluno\desktop\estruturadedados\ed em c\maitoli\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.h"
+
+1583882770 c:\users\aluno\desktop\estruturadedados\ed em c\maitoli\funcoes.h
+
